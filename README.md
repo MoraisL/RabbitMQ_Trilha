@@ -85,3 +85,10 @@ No Vision4Docs, nosso produto analisa transações para detectar se são fraudul
 3. **Fila de Tarefas**:
     - Implementação de filas de tarefas onde produtores enviam tarefas para filas e consumidores processam essas tarefas.
 
+
+##Utilizando RabbitMQ
+
+
+```
+rabbitmq-server start
+```
