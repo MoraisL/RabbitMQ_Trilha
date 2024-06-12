@@ -86,9 +86,11 @@ No Vision4Docs, nosso produto analisa transações para detectar se são fraudul
     - Implementação de filas de tarefas onde produtores enviam tarefas para filas e consumidores processam essas tarefas.
 
 
-##Utilizando RabbitMQ
+## Utilizando RabbitMQ
 
+**Passo 1: Iniciar o RabbitMQ**
 
+Após a instalação, inicie o servidor RabbitMQ. No Windows, isso pode ser feito através do prompt de comando:
 ```
 rabbitmq-server start
 ```
